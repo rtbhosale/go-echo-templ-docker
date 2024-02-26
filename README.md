@@ -10,7 +10,7 @@ Docker compose is for local development purpose only it is not meant for product
 
 
 # Todo
-[] Add Dockerfile for production usage
-[] Add sample templ page / components
-[] Add godotenv to read settings fron env file.
-[] Integrate db
+- [ ] Add Dockerfile for production usage
+- [ ] Add sample templ page / components
+- [ ] Add godotenv to read settings fron env file.
+- [ ] Integrate db
