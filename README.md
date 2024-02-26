@@ -6,7 +6,7 @@ boilerplate project setup using Go, Echo, templ, Air with docker.
 docker compose up
 
 # Note
-Docker compose is for local development purpose only it is not meant for production.
+Docker compose is for local development purpose only. it is not meant for production usage. 
 
 
 # Todo
