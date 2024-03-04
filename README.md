@@ -6,11 +6,11 @@ boilerplate project setup using Go, Echo, templ, Air with docker.
 docker compose up
 
 # Note
-Docker compose is for local development purpose only. it is not meant for production usage. 
+docker compose is for development purpose only for running on production use this [Dockerfile](Dockerfile)
 
 
 # Todo
-- [ ] Add Dockerfile for production usage
+- [x] Add Dockerfile for production usage
 - [ ] Add sample templ page / components
 - [ ] Add godotenv to read settings fron env file.
 - [ ] Integrate db
